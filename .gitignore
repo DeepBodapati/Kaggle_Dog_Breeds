@@ -1,5 +1,7 @@
 *.pyc
 *.log
+*.jpg
+backup/
 data/
 models/
 .ipynb_checkpoints/
