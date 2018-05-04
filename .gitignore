@@ -4,5 +4,6 @@
 backup/
 data/
 models/
+kaggle/
 .ipynb_checkpoints/
 

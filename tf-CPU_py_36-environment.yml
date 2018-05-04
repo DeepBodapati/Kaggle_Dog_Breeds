@@ -104,12 +104,14 @@ dependencies:
   - mkl_fft=1.0.1=py36h3010b51_0
   - mkl_random=1.0.1=py36h629b387_0
   - ncurses=6.0=h9df7e31_2
+  - olefile=0.45.1=py36_0
   - openjdk=8.0.121=1
   - openssl=1.0.2o=h20670df_0
   - packaging=17.1=py36_0
   - pandas=0.22.0=py36hf484d3e_0
   - pango=1.41.0=hd475d92_0
   - pcre=8.42=h439df22_0
+  - pillow=5.1.0=py36h3deb7b8_0
   - pip=10.0.1=py36_0
   - pixman=0.34.0=hceecf20_3
   - plotly=2.5.1=py36_0
